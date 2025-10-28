@@ -1,0 +1,155 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #cfa5a5;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    text-align: center;
+    border-bottom: 2px solid #53c124;
+    padding-bottom: 22px;
+    margin-bottom: 35px;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    background-color: #b1f921;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    color: white;
+}
+
+h1 {
+    color: #1fc8d7;
+    margin: 20px 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:  36px;
+}
+
+h2 {
+    color: #555;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 7px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.contact-info {
+    background-color: #f9f9f9;
+    padding: 18px;
+    border-radius: 5px;
+    margin: 25px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.skills-list {
+    list-style-type: none;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.skills-list li {
+    background-color: #ff1e62;
+    color: white;
+    padding: 8px 15px;
+    margin: 5px 0;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 17px 0;
+    border-radius: 5px;
+    background-color: #fafafa;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.project h3 {
+    color: #bf0d42;
+    margin-top: 0;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.project-link {
+    color: #007acc;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+}
+
+.education-item {
+    margin: 15px 0;
+    padding: 15px;
+    background-color: #f0f8ff;
+    border-left: 4px solid #c75878;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.experience-item {
+    margin: 15px 0;
+    padding: 15px;
+    background-color: #fff8f0;
+    border-left: 4px solid #ff9500;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+    color: #666;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.social-links a {
+    color: #007acc;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.social-links a:hover {
+    text-decoration: underline;
+}
+.Goal{margin: 15px 0;
+    padding: 15px;
+    background-color: #f0f8ff;
+    border-left: 4px solid #bc5977;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{font-size: 16px;
+ font-family: 'Courier New', Courier, monospace;
+}
+.certifications {
+font-family: 'Courier New', Courier, monospace;
+padding: 5px;
+}
